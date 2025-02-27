@@ -1,0 +1,25 @@
+{
+  "networks": {
+    "goerli": {
+      "depositContract": "0xff50ed3d0ec03ac01d4c79aad74928bff48a7b2b",
+      "beaconChainApiUrl": "https://goerli.beaconcha.in/api/v1",
+      "etherscanUrl": "https://goerli.etherscan.io"
+    },
+    "sepolia": {
+      "depositContract": "0x7f02c3e3c98b133055b8b348b2ac625669ed295d",
+      "beaconChainApiUrl": "https://sepolia.beaconcha.in/api/v1",
+      "etherscanUrl": "https://sepolia.etherscan.io"
+    },
+    "holesky": {
+      "depositContract": "0x4242424242424242424242424242424242424242",
+      "beaconChainApiUrl": "https://holesky.beaconcha.in/api/v1",
+      "etherscanUrl": "https://holesky.etherscan.io"
+    }
+  },
+  "stakingParameters": {
+    "minStake": 32,
+    "apr": 3.75,
+    "validatorActivationTime": 1800,
+    "exitDelay": 432000
+  }
+}
