@@ -36,7 +36,7 @@ To use StakeSim, follow these steps:
 ## Installation  
 1. Clone the repository:  
     ```bash
-    git clone https://github.com/your-username/StakeSim.git
+    git clone https://github.com/emirerfan/StakeSim.git
     cd StakeSim
     ```
 2. Install dependencies:  
